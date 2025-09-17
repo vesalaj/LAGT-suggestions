@@ -5,33 +5,101 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/.idea/theos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/.idea/theos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/data/centuries_targets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/centuries_targets.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/data/shared_vocabulary.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/shared_vocabulary.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/data/subcorpora_indicators_mi_df.json" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/subcorpora_indicators_mi_df.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/data/vocabulary_balanced.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/vocabulary_balanced.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/data/w2v_par_comparison_pagan_archaic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/w2v_par_comparison_pagan_archaic.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.tiff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies.tiff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.tiff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/scripts/1_lagt_ngrams_extraction+explorations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/1_lagt_ngrams_extraction+explorations.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/scripts/2_frequencies+cooccurrences.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/2_frequencies+cooccurrences.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/scripts/3_lagt_subcorpora_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/3_lagt_subcorpora_models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../theos/scripts/4_embeddings-validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/4_embeddings-validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/exprecce/exprecce_complete_20250917_1931.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/exprecce/exprecce_sentences_20250917_1931.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/3_EXPRECCE-SENTENCES.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/4_ADD-EXPRECCE-TO-LAGT_LEGACY.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT-2-0_subcorpora-overview.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/LAGT-2-0_subcorpora-overview.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT_2-0_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/metadata/LAGT_2-0_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT_metadata-update.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/metadata/LAGT_metadata-update.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT_v4-0_metadata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/metadata/LAGT_v4-0_metadata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT_v4-1_codebook.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/LAGT_v4-1_codebook.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/LAGT_v4-1_metadata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/metadata/LAGT_v4-1_metadata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ag_lemma_lookup.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/ag_lemma_lookup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_metadata_v2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_metadata_v2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0304.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0304.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0384.tlg002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0384.tlg002.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0388.tlg002_recheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0388.tlg002_recheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0388.tlg004_recheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0388.tlg004_recheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0389.tlg001_recheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0389.tlg001_recheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0390.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0390.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg0391.tlg001_recheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg0391.tlg001_recheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2005.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2005.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2007.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2007.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2008.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2008.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2010.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2010.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2011.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2011.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2012.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2012.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2015.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2015.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2017.tlg065.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2017.tlg065.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2040.tlg034.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2040.tlg034.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2040.tlg035.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2040.tlg035.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2062.tlg041.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2062.tlg041.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2062.tlg043.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2062.tlg043.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2062.tlg050.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2062.tlg050.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2062.tlg511.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2062.tlg511.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg2798.tlg005.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg2798.tlg005.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg3150.tlg002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg3150.tlg002.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce/exprecce_raw_data_v2/tlg5451.tlg001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/exprecce/exprecce_raw_data_v2/tlg5451.tlg001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce_sentences.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exprecce_v1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gr_metadata_merged.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/metadata/gr_metadata_merged.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lxx_mapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/lxx_mapping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/LAGT-2-0_words-overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/LAGT-2-0_words-overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/dating_comparison.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/dating_comparison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/proxies-by-date.eps" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/proxies-by-date.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/proxies.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/proxies.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/seshat_axial_mediterranean.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/seshat_axial_mediterranean.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/temporal_overview.eps" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/temporal_overview.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/temporal_overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/temporal_overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/theosTF-by-date.eps" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/theosTF-by-date.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/wordcount_comparison.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/figures/wordcount_comparison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/1_DATA-EXTRACTION-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/2_DATING&amp;PROVENIENCE-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/3_NLP-GRECY-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/3_PREPROCESSING&amp;RAW-VECTORS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/4_LEMMATIZATION_with-spacy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/5_OVERVIEW-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/LAGT_quickstart-guide-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/MORPHEUS_PARSING+EXTENSION-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.ipynb_checkpoints/TAGGER&amp;LEMMATIZER_training-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/3_EXPRECCE-PREPROCESSING.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/3_LEMMATIZATION-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/VARIOUS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/dev-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/lookups-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/tagger-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/.ipynb_checkpoints/tagger_CLI-commands-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/1_DATA-EXTRACTION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/2_DATING&amp;PROVENIENCE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/3_LEMMATIZATION-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/3_PREPROCESSING&amp;RAW-VECTORS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/4_LEMMATIZATION_with-spacy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/5_LEMMATIZATION-FROM-OTHER-CORPORA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/6_METADATA-UPDATE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGT-2-1_OVERVIEW.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/1_DATA-EXTRACTION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/2_TREEBANK-DATA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/3_LEMMATIZATION-GRECY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/4_DATING&amp;PROVENIENCE-EXTRACTION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/5_DATING&amp;PROVENIENCE-CODED.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/LAGT-2-1_OVERVIEW.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LAGTv3-0/LAGT-3-0_OVERVIEW.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/LEMMATIZATION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/MORPHEUS_PARSING+EXTENSION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/TAGGER&amp;LEMMATIZER_training.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/VARIOUS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/_LEMMATIZATION_with-spacy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/_METADATA-UPDATE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/dev.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/lemmatization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/lookups.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/tagger.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/tagger_CLI-commands.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backup/testing-electra-grc.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +120,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vesalaj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vesalaj/LAGT-suggestions.git",
+    "accountId": "0921eb3c-75c5-49c4-8453-b15c7163202f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -60,24 +140,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/labyrinth&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/me/PycharmProjects/LAGT-suggestions/data/sources/exprecce",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -127,16 +208,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/sources/exprecce" />
+      <recent name="$PROJECT_DIR$/data/exprecce" />
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/../enemy-christianity/scripts" />
       <recent name="$PROJECT_DIR$/../enemy-christianity/figures" />
-      <recent name="$PROJECT_DIR$/../theos/scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/output/figures" />
+      <recent name="$PROJECT_DIR$/data/output" />
+      <recent name="$PROJECT_DIR$/data/output/metadata" />
+      <recent name="$PROJECT_DIR$/data/output/LAGT_metadata" />
+      <recent name="$PROJECT_DIR$/data/sources" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.35" />
-        <option value="bundled-python-sdk-cfca122e0627-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.35" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
   </component>
@@ -168,6 +258,7 @@
       <workItem from="1756214600629" duration="19000" />
       <workItem from="1756216359461" duration="26325000" />
       <workItem from="1756529276362" duration="3664000" />
+      <workItem from="1758128121909" duration="917000" />
     </task>
     <servers />
   </component>
