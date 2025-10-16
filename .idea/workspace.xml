@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="Larger reordering and cleaning; backups not needed in repo, they are kept in earlier versions. Backups cause unnecessary confusion and recurring duplication of the same files">
+    <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="Smaller updates">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +129,11 @@
       <recent name="$PROJECT_DIR$/../enemy-christianity/scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_scripts" />
       <recent name="$PROJECT_DIR$/data/output/figures" />
       <recent name="$PROJECT_DIR$/data/output" />
       <recent name="$PROJECT_DIR$/data/output/metadata" />
       <recent name="$PROJECT_DIR$/data/output/LAGT_metadata" />
-      <recent name="$PROJECT_DIR$/data/sources" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -193,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760610820468</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Smaller updates">
+      <option name="closed" value="true" />
+      <created>1760611369555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760611369555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +208,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Larger reordering and cleaning; backups not needed in repo, they are kept in earlier versions. Backups cause unnecessary confusion and recurring duplication of the same files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Larger reordering and cleaning; backups not needed in repo, they are kept in earlier versions. Backups cause unnecessary confusion and recurring duplication of the same files" />
+    <MESSAGE value="Smaller updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Smaller updates" />
   </component>
 </project>
