@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="Larger reordering and cleaning; backups not needed in repo, they are kept in earlier versions. Backups cause unnecessary confusion and recurring duplication of the same files">
-      <change afterPath="$PROJECT_DIR$/data/sources/OGA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/1_GLAUX-TO-PICKLES.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/OGA_date.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2_OGA-TO-PICKLES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/3_EXPRECCE-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/3_EXPRECCE-TO-PICKLES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/4_ADD-EXPRECCE-TO-LAGT_LEGACY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_ADD-TO-LAGT_LEGACY.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758129219114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Larger reordering and cleaning; backups not needed in repo, they are kept in earlier versions. Backups cause unnecessary confusion and recurring duplication of the same files">
+      <option name="closed" value="true" />
+      <created>1760610820468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760610820468</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
